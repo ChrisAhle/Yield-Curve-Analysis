@@ -1,0 +1,17 @@
+episode,portfolio,10Y move (bp),2s10s change (bp),actual P&L %,parallel P&L %,miss (pts)
+2008 crisis (Sep-Dec 2008),Short 1-3Y (SHY-like),-149.0,-2.0,2.86,2.85,0.01
+2008 crisis (Sep-Dec 2008),Intermediate 7-10Y (IEF-like),-149.0,-2.0,10.74,10.89,-0.14
+2008 crisis (Sep-Dec 2008),Long 20-30Y (TLT-like),-149.0,-2.0,23.58,23.78,-0.2
+2008 crisis (Sep-Dec 2008),"Barbell (short + long, same duration)",-149.0,-2.0,11.6,11.68,-0.08
+COVID crash (Feb-Mar 2020),Short 1-3Y (SHY-like),-102.0,2.0,1.98,1.94,0.04
+COVID crash (Feb-Mar 2020),Intermediate 7-10Y (IEF-like),-102.0,2.0,7.03,7.31,-0.28
+COVID crash (Feb-Mar 2020),Long 20-30Y (TLT-like),-102.0,2.0,15.25,15.49,-0.24
+COVID crash (Feb-Mar 2020),"Barbell (short + long, same duration)",-102.0,2.0,7.58,7.66,-0.08
+2022 hiking cycle (Dec 2021-Oct 2022),Short 1-3Y (SHY-like),269.0,-107.0,-6.72,-4.88,-1.84
+2022 hiking cycle (Dec 2021-Oct 2022),Intermediate 7-10Y (IEF-like),269.0,-107.0,-16.95,-16.56,-0.39
+2022 hiking cycle (Dec 2021-Oct 2022),Long 20-30Y (TLT-like),269.0,-107.0,-27.3,-28.77,1.48
+2022 hiking cycle (Dec 2021-Oct 2022),"Barbell (short + long, same duration)",269.0,-107.0,-15.4,-14.96,-0.44
+2023 bear steepener (Jul-Oct 2023),Short 1-3Y (SHY-like),101.0,75.0,-0.61,-1.87,1.26
+2023 bear steepener (Jul-Oct 2023),Intermediate 7-10Y (IEF-like),101.0,75.0,-6.38,-6.65,0.27
+2023 bear steepener (Jul-Oct 2023),Long 20-30Y (TLT-like),101.0,75.0,-13.39,-12.55,-0.84
+2023 bear steepener (Jul-Oct 2023),"Barbell (short + long, same duration)",101.0,75.0,-6.0,-6.38,0.38

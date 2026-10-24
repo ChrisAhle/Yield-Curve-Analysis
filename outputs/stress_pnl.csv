@@ -1,0 +1,9 @@
+,Short 1-3Y (SHY-like),Intermediate 7-10Y (IEF-like),Long 20-30Y (TLT-like),"Barbell (short + long, same duration)"
+Parallel +100bp,-1.85,-6.59,-12.44,-6.32
+Parallel -100bp,1.9,7.16,15.16,7.49
+Level up (PC1 +2σ),-2.61,-11.43,-18.07,-9.13
+Level down (PC1 -2σ),2.72,13.25,24.38,11.86
+Steepener (PC2 +2σ),0.38,-2.03,-5.44,-2.07
+Flattener (PC2 -2σ),-0.38,2.08,5.91,2.27
+Belly up (PC3 +2σ),-1.03,1.37,8.58,3.02
+Belly down (PC3 -2σ),1.05,-1.34,-7.63,-2.61
