@@ -75,7 +75,7 @@ def main():
     plots.ns_factors(betas, yields, FIG / "2_nelson_siegel_factors.png")
     plots.pca_loadings(loadings, explained, FIG / "3_pca_loadings.png")
     plots.stress_bars(pnl, FIG / "4_stress_pnl.png",
-                      "Same duration, different curve risk: P&L under each scenario")
+                      "Instant P&L under parallel and PCA curve shocks")
     if len(hist):
         plots.parallel_vs_actual(hist, FIG / "5_parallel_vs_actual.png")
 
